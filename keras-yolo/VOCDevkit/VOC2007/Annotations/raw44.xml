@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>raw44.jpg</filename>
+    <path>desks-PascalVOC-export/Annotations/raw44.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>239</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>desk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>108.5213527859722</xmin>
+        <ymin>9.762711174743997</ymin>
+        <xmax>165.9897893029485</xmax>
+        <ymax>304.81357035663837</ymax>
+    </bndbox>
+</object>
+</annotation>

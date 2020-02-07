@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>raw124.jpg</filename>
+    <path>desks-PascalVOC-export/Annotations/raw124.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>313</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Dirtdesk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.419886805075967</xmin>
+        <ymin>102.56497175141243</ymin>
+        <xmax>267.7237461153315</xmax>
+        <ymax>247.92428838869947</ymax>
+    </bndbox>
+</object>
+</annotation>

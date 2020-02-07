@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>raw270_20191118_160704.jpg</filename>
+    <path>desks-PascalVOC-export/Annotations/raw270_20191118_160704.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>239</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>desk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>26.836670210320918</xmin>
+        <ymin>104.4971806585452</ymin>
+        <xmax>236.10850937380008</xmax>
+        <ymax>288.1808075123588</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,8 @@
+item {
+ id: 1
+ name: 'desk'
+}
+item {
+ id: 2
+ name: 'Dirtdesk'
+}
